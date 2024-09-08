@@ -7,7 +7,9 @@
     <a href="https://www.linkedin.com/in/wallas-aguiar-rocha-846bbb273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://t.me/War_ggez" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   </p>
+  <a href="https://discordapp.com/users/490603304099774464/">
   <img width="45%" src="https://discord-readme-badge.vercel.app/api?id=490603304099774464">
+  </a>
 </div>
 
 <div align="center">
