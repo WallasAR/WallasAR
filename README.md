@@ -92,5 +92,14 @@
   </a>
 </div>
 
-
-<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&color=0:3434344d,100:23232380&section=footer"> 
+ <picture>
+      <source
+        srcset="https://lh3.googleusercontent.com/pw/AP1GczMVFX-07bFv0f8rFW4NVbEXO5IcZUL6ueDNrGP8x1Eh2udMSTZtCbCKX_Zh-mv9E1kSOKYHDCIzux63B0aBUOxl9J5OIS5deTdbsmzU4BWkeXDynz2SOq1QfHMwzyj6suBzIm4aBwb_5CV8xE0S_K0U=w1200-h180-s-no-gm?authuser=0"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://lh3.googleusercontent.com/pw/AP1GczPnbf0xRZf3nH32GhU_gSWnkRD1lgRX99tsUq0s0pQztn4zf8NmTV2lNeNGKnze5sXFQm9oslp3GgZu1bzNqxOKn0chzrxYSjF8sthtbp-FhjRSBTnM-A-RdIBrWW4Sp4VLTG6RjCky3eH_301cG3hD=w1200-h180-s-no-gm?authuser=0"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+     <img width="100%" align="center" src="https://lh3.googleusercontent.com/pw/AP1GczMVFX-07bFv0f8rFW4NVbEXO5IcZUL6ueDNrGP8x1Eh2udMSTZtCbCKX_Zh-mv9E1kSOKYHDCIzux63B0aBUOxl9J5OIS5deTdbsmzU4BWkeXDynz2SOq1QfHMwzyj6suBzIm4aBwb_5CV8xE0S_K0U=w1200-h180-s-no-gm?authuser=0">
+    </picture>
