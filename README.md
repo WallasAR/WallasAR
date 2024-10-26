@@ -58,9 +58,25 @@
     </picture>
   </a>
   </p>
-  <a href="https://discordapp.com/users/490603304099774464/">
-  <img width="50%" src="https://discord-readme-badge.vercel.app/api?id=490603304099774464">
-  </a>
+  <div align="center">
+    <picture>
+      <a href="https://discordapp.com/users/490603304099774464/">
+        <img width="50%" src="https://discord-readme-badge.vercel.app/api?id=490603304099774464">
+      </a>
+    </picture>
+    <a href="https://open.spotify.com/user/pzu3k78deym94055bl949ix2c">
+      <picture>
+        <source
+          srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=pzu3k78deym94055bl949ix2c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=pzu3k78deym94055bl949ix2c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img width="45%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=pzu3k78deym94055bl949ix2c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+    </picture>
+    </a>
 </div>
 
 <div align="center">
